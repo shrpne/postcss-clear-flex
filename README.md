@@ -1,6 +1,6 @@
 # PostCSS Clear Flex [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin clear old webkit flex prefixes to prevent wrong order in the autoprefixer output.
+[PostCSS] plugin clear old webkit flex prefixes to prevent wrong order in the Autoprefixer output.
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/shrpne/postcss-clear-flex.svg

@@ -1,12 +1,13 @@
 {
   "name": "postcss-clear-flex",
   "version": "1.0.0",
-  "description": "PostCSS plugin Clear old flex prefixes",
+  "description": "PostCSS plugin clear old webkit flex prefixes to prevent wrong order in the Autoprefixer output.",
   "keywords": [
     "postcss",
     "css",
     "postcss-plugin",
-    "flex"
+    "flex",
+    "autoprefixer"
   ],
   "author": "shrpne <shrpne@gmail.com>",
   "license": "MIT",
